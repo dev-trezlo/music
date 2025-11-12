@@ -28,7 +28,9 @@ ASSUSERNAME = getenv("ASSUSERNAME" , "AqiaPro")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 MONGO_DB_URI = getenv("MONGO_DB_URI")
-API_KEY = getenv("API_KEY")
+YT_API_KEY = getenv("API_KEY")
+YT_API_URL = getenv("API_URL")
+API_KEY = getenv("GPT_KEY")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
@@ -72,9 +74,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ProBotts")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ProBotGc")
-CHAT = getenv("CHAT", "https://t.me/ProBotGc")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/JarvisCodePython")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Hearstringer")
+CHAT = getenv("CHAT", "https://t.me/Hearstringer")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
