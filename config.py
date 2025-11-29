@@ -74,9 +74,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/JarvisCodePython")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Hearstringer")
-CHAT = getenv("CHAT", "https://t.me/Hearstringer")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/CoolBotz")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/CoolBotzsup")
+CHAT = getenv("CHAT", "https://t.me/CoolBotzsup")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -151,7 +151,7 @@ STREAMI_PICS = [
 ]
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://i.ibb.co/xPjc7tv/help-menu.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/q010th.jpg"
 )
 
 HELP_IMG_URL = getenv(
@@ -159,7 +159,7 @@ HELP_IMG_URL = getenv(
 )
 
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://i.ibb.co/VWnm6f3f/ping.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/q010th.jpg"
 )
 PLAYLIST_IMG_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
 STATS_IMG_URL = "https://i.ibb.co/pBqPtFYn/statistics.jpg"

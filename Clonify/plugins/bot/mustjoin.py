@@ -6,7 +6,7 @@ from Clonify import app
 
 #--------------------------
 
-MUST_JOIN = "JarvisCodePython"
+MUST_JOIN = "CoolBotz"
 
 #--------------------------
 
