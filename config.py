@@ -145,8 +145,8 @@ confirmer = {}
 # ------------------------------------------------------------------------
 
 STREAMI_PICS = [
-"https://i.ibb.co/whgkNq6n/start-img-1.jpg",
-"https://i.ibb.co/q32FdssH/start-img-2.jpg",
+"https://files.catbox.moe/q010th.jpg",
+"https://files.catbox.moe/q010th.jpg",
 
 ]
 
@@ -161,16 +161,16 @@ HELP_IMG_URL = getenv(
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://files.catbox.moe/q010th.jpg"
 )
-PLAYLIST_IMG_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
-STATS_IMG_URL = "https://i.ibb.co/pBqPtFYn/statistics.jpg"
-TELEGRAM_AUDIO_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
-TELEGRAM_VIDEO_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
-STREAM_IMG_URL = "https://i.ibb.co/0VKCS20y/stream.jpg"
-SOUNCLOUD_IMG_URL = "https://i.ibb.co/S4sPf3q8/soundcloud.jpg"
-YOUTUBE_IMG_URL = "https://i.ibb.co/xShkBVBK/youtube.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://i.ibb.co/XZfMS8Db/spotify.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://i.ibb.co/XZfMS8Db/spotify.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://i.ibb.co/XZfMS8Db/spotify.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/i7uj2i.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/fcawaj.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/fcawaj.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
