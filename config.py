@@ -56,7 +56,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://github.com/TeamProBots/Clonify")
+SOURCE = getenv("SOURCE", "CoolBotz.t.me")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/TeamProBots/Clonify",
