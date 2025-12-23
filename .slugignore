@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log
+*.mp4
+*.mp3
+*.wav
+downloads
+cache
+tmp
+.git
+.gitignore
+
