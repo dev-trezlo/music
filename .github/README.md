@@ -106,11 +106,11 @@ For a full list of commands, use `/help` in [telegram](https://t.me/AqiaBot).
 </h3>
 
 <p align="center">
-<a href="https://t.me/CoolBotzsup"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+6TitEVSJJJ9hZTQ1"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/CoolBotz"><img src="https://img.shields.io/badge/-Update%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Sukoon_leooo"><img src="https://img.shields.io/badge/-Update%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <br />

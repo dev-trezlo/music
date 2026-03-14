@@ -56,7 +56,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "CoolBotz.t.me")
+SOURCE = getenv("SOURCE", "Sukoon_leooo.t.me")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/TeamProBots/Clonify",
@@ -74,9 +74,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/CoolBotz")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/CoolBotzsup")
-CHAT = getenv("CHAT", "https://t.me/CoolBotzsup")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Sukoon_leooo")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+6TitEVSJJJ9hZTQ1")
+CHAT = getenv("CHAT", "https://t.me/p")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
